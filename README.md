@@ -22,3 +22,11 @@ OR
 
 ## Output  
 ![alt text](https://github.com/brickcommander/Virtual-OS/blob/main/Screenshots/Home%20Screen.png)
+![alt text](https://github.com/brickcommander/Virtual-OS/blob/main/Screenshots/Weather%20App.png)
+![alt text](https://github.com/brickcommander/Virtual-OS/blob/main/Screenshots/calculator.png)
+![alt text](https://github.com/brickcommander/Virtual-OS/blob/main/Screenshots/gallery%20snip.png)
+![alt text](https://github.com/brickcommander/Virtual-OS/blob/main/Screenshots/Text%20Editor.png)
+![alt text](https://github.com/brickcommander/Virtual-OS/blob/main/Screenshots/Saving%20txt%20file.png)
+![alt text](https://github.com/brickcommander/Virtual-OS/blob/main/Screenshots/Overwrite%20Dialog.png)
+![alt text](https://github.com/brickcommander/Virtual-OS/blob/main/Screenshots/Open%20txt%20file.png)
+![alt text](https://github.com/brickcommander/Virtual-OS/blob/main/Screenshots/Opened%20File.png)
