@@ -16,10 +16,7 @@ func showWeatherApp() {
 	w := myOS.NewWindow("Weather App")
 	w.Resize(fyne.NewSize(300, 250))
 
-	// API
-	// key := "62149b34ae7144c8b97bbea2c6fb3e08"
-
-	res, err := http.Get("https://api.openweathermap.org/data/2.5/weather?q=bhopal&appid=201c4f0a9f2878c78353574f588ee4b3")
+	res, err := http.Get("https://api.openweathermap.org/data/2.5/weather?q=bhopal&appid={API key}")
 
 	if err != nil {
 		fmt.Println(err)
